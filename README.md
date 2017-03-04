@@ -7,8 +7,7 @@ Getting Started
 
 Download `theme-name` from GitHub. The first thing you want to do is copy the `theme-name` directory and change the name to something else (like, say, `megatherium-is-awesome`), and then you'll need to do some steps.
 
-1. Change theme information in `style.css` file.
-
+1. Change theme information in `style.css` file
 2. Search for: `theme-name-` and replace with: `megatherium-is-awesome-`
 3. Search for: `theme_name_` and replace with: `megatherium_is_awesome_`
 4. Search for: `Theme_Name` and replace with: `Megatherium_Is_Awesome`
