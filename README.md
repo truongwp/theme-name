@@ -16,6 +16,12 @@ Download `theme-name` from GitHub. The first thing you want to do is copy the `t
 7. Update the links in `footer.php` with your own information
 8. Next, update or delete this readme
 
+Generate CSS
+---------------
+
+1. Run `npm install` to install node modules.
+2. Run `gulp` to watch changes and compile scss to css.
+
 Now you're ready to go! The next step is easy to say, but harder to do: make an awesome WordPress theme. :)
 
 Good luck!
